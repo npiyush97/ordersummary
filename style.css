@@ -114,9 +114,10 @@ button {
 @media screen and (max-width: 500px) {
   .container {
     width: 80%;
-    height: 30%;
+    height: auto;
   }
   .img-container {
+    height: 30%;
     background-position: center;
   }
 }
